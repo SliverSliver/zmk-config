@@ -2,7 +2,7 @@ file_format: "1"
 id: alice60
 name: ripper Keyboard
 type: shield
-url: https://oshwhub.com/joba
-requires: [nrfmicro_13]
+url: https://zmk.dev/
+requires: [nrfmicro_13_52840]
 features:
   - keys
