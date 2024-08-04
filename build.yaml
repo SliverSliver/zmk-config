@@ -18,5 +18,5 @@
 #
 ---
 include:
-  - board: nrfmicro_13_52840
+  - board: nrfmicro_13
     shield: alice60
