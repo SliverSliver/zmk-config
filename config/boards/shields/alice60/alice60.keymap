@@ -27,7 +27,7 @@
                         &kp TAB     &kp Q         &kp W           &kp E          &kp R          &kp T          &kp Y       &kp U       &kp I       &kp O       &kp P       &kp LBKT        &kp RBKT
                         &kp CAPS    &kp A         &kp S           &kp D          &kp F          &kp G          &kp H       &kp J       &kp K       &kp L       &kp SQT                     &kp ENTER
                         &kp LSHFT   &kp Z         &kp X           &kp C          &kp V          &kp B          &kp B       &kp N       &kp M       &kp COMMA   &kp DOT     &kp FSLH        &kp RSHFT
-                        &kp LCTRL   &kp LALT                      &kp LWIN       &kp SPACE                     &kp SPACE               &mo 1                               &kp RALT        &kp RCTRL
+                        &kp LCTRL   &kp LALT                      &kp LWIN       &kp SPACE                     &kp SPACE               &mo 1                               &bt BT_CLR_ALL  &kp RCTRL
                   >;
 		};
             
@@ -37,7 +37,7 @@
                         &kp TAB     &kp Q         &kp W           &kp E          &kp R          &kp T          &kp Y       &kp U       &kp I       &kp O       &kp P       &kp LBKT        &kp RBKT
                         &kp CAPS    &kp A         &kp S           &kp D          &kp F          &kp G          &kp H       &kp J       &kp K       &kp L       &kp SQT                     &kp ENTER
                         &kp LSHFT   &kp Z         &kp X           &kp C          &kp V          &kp B          &kp B       &kp N       &kp M       &kp COMMA   &kp DOT     &kp FSLH        &kp RSHFT
-                        &kp LCTRL   &kp LALT                      &kp LWIN       &kp SPACE                     &bt BT_CLR_ALL          &none                               &kp RALT        &kp RCTRL
+                        &kp LCTRL   &kp LALT                      &kp LWIN       &kp SPACE                     &bt BT_CLR_ALL          &to 0                               &kp RALT        &kp RCTRL
                   >;
 		};
 	};
